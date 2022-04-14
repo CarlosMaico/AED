@@ -5,11 +5,10 @@
 ## "Hello, World!" en C++
 
 Compilador: 
-* MinGW 3.18 
+* MinGW - Minimalist
 * C++ 20 
-* CMake 3.21.1
 
-IDE: CLion 2021.3.3
+IDE: VisualStudio Code
 
 ### Output file
 
