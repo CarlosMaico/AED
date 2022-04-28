@@ -7,6 +7,7 @@
 Compilador: 
 * MinGW - Minimalist
 * C++ 20 
+* Verion gcc 11.3
 
 IDE: VisualStudio Code
 
