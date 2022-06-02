@@ -33,7 +33,8 @@ char, unsigned, int, double, y string.
 *Crédito Extra
 ¿Son esos realmente todos los tipos que vimos en clase?
 Justifique.
-Son algunos qu vimos, vimos varios en general, y aclaramos que tipo de dato es un conjnto de valores y un conjunto de operaciones sobre esos valores.
+Son algunos que vimos, vimos varios en general (vimos mas en profundidad los datos primitivos), y aclaramos que tipo de dato es un conjnto de valores y un conjunto de operaciones sobre esos valores.
+Algunos tipos de datos que existen pueden ser, Date, Varchar, tipos de datos abstractos, etc. 
 
 ### 6.6. Productos
 DD-EjemploTipos
