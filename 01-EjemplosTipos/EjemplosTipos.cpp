@@ -88,7 +88,7 @@ int main(){
     assert(sizeof 'A' == 1);   //el sizeof(operador, me da el tamaño del tipo de dato) me dice el espacio en bytes que ocupa en memoria
     assert(sizeof 65 == 4);  
     assert(sizeof "Hola"s == 32);
-    assert(sizeof "Hola" == 5);  //arreglo de caracteres me da el tamaño del arreglo Hola que son 4 mas el caracter centinela
+    assert(sizeof "Hola" == 5);  //arreglo de caracteres me da el tamaño del arreglo Hola que son 4 mas el caracter "Fin de la cadena"
                                 //El unci tipo de dato que tiene tamaño identico siempre es el char
     //std::cout << sizeof "Hola como"s; muestra el tamaño de "hola como"
     assert(sizeof 10u == 4);
