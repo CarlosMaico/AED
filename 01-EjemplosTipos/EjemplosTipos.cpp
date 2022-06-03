@@ -93,6 +93,9 @@ int main(){
     //std::cout << sizeof "Hola como"s; muestra el tamaño de "hola como"
     assert(sizeof 10u == 4);
     assert(sizeof 100.0 == 8);
+    
+    //Los que usmos aca serian los datos primitivos. salvo el string, luego hay mas datos como el Date, Tipo de datos abtractos, etc.
+    //Dentro de los assert tambien podemos llamar a una funcion para verificar el valor que va a devolver esa funcion.
 
 
 }
