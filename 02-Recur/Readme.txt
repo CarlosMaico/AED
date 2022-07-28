@@ -15,28 +15,29 @@ IDE: VisualStudio Code
 * Funciones recursivas.
 * Operador condicional.
 
-### 6.3. Problema
-* Diseñar un programa C++ que ejemplifique con pruebas la aplicación de los tipos
-de datos vistos en clases.
+### 10.3. Problema
+* Desarrollar las siguientes funciones:
+1. División entera de naturales: Div.
+2. MCD (Máximo Común Denominador)
+3. Factorial
+4. Fibonacci
 
-### 6.4. Restricciones
-* Utilice assert para probar.
-* No extraer valores de cin, usar valores literales (constantes).
-* No enviar valores a cout.
+### 10.4. Restricciones
+* Las pruebas deben realizarse con assert.
+• Cada función debe aplicar el operador condicional
 
-### 6.5. Tareas
-* Este es un trabajo no estructurado, que consiste en escribir un programa que
-ejemplifique el uso de los tipos de datos básicos de C++ vistos en clase: bool,
-char, unsigned, int, double, y string.
+### 10.5. Tareas
+* Por cada función:
+1. Escribir el léxico, es decir, la definición matemática de la función.
+2. Escribir las pruebas.
+3. Escribir los prototipos.
+4. Escribir las definiciones.
 
-*Crédito Extra
-¿Son esos realmente todos los tipos que vimos en clase?
-Justifique.
-Son algunos que vimos, vimos varios en general (vimos mas en profundidad los datos primitivos), y aclaramos que tipo de dato es un conjnto de valores y un conjunto de operaciones sobre esos valores.
-Algunos tipos de datos que existen pueden ser, Date, Varchar, tipos de datos abstractos, etc. 
-
-### 6.6. Productos
-DD-EjemploTipos
+### 10.6. Productos
+DD-Recur
  |-- readme.md
- `-- EjemploTipos.cpp
+ |-- Div.cpp
+ |-- Mcd.cpp
+ |-- Factorial.cpp
+ `-- Fibonacci.cpp
 
